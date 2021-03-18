@@ -1,2 +1,1 @@
-# javascript
-JavaScript Tutorial
+# [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)

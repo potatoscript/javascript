@@ -1,1 +1,1 @@
-# [JavaScript Tutorial](https://github.com/potatoscript/javascript/wiki)
+# [JavaScript CheatSheet](https://github.com/potatoscript/javascript/wiki)
